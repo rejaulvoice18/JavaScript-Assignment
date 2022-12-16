@@ -1,5 +1,6 @@
+//https://github.com/rejaulvoice18/JavaScript-Assignment
 
-//1st problem
+
 
 function kilometerToMeter(k){
     var meter = k * 1000;
@@ -8,7 +9,7 @@ function kilometerToMeter(k){
 var meter = kilometerToMeter(4);
 console.log(meter);
 
-// 2n problem
+
 function budgetCalculator(w,m,l){
     var watch = w * 50;
     var mobile = m * 100;
@@ -23,7 +24,7 @@ var budget = budgetCalculator(3,4,4);
 console.log(budget);
 
 
-//3rd Problem
+
 function hotelCost(stay){
     var cost = 0;
     if(stay<=10){
@@ -49,7 +50,7 @@ var hCost = hotelCost(25);
 console.log(hCost);
 
 
-//4th problem
+
 function megaFriend(arstring){
     var max_str = arstring[0].length;
     var big_str = arstring[0];
